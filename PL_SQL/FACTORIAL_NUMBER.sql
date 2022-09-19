@@ -9,3 +9,9 @@ BEGIN
 	DBMS_OUTPUT.PUT_LINE('THE FACTORIAL NUMBER OF '||N||' IS:' ||F);
 	END;
 /
+
+/* 
+Output:-
+ THE FACTORIAL NUMBER OF 6 Is : 720.
+
+*/
