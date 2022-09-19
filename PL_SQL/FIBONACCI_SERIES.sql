@@ -15,3 +15,23 @@ LOOP
     END LOOP;
   END;
 /
+
+/* 
+Output:-
+
+Enter value for n: 10
+old   2: N NUMBER := &N;
+new   2: N NUMBER := 10;
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+55
+
+/*
